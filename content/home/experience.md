@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Investigator"
   company_url = ""
   location = "China Pharmaceutical University"
-  date_start = "2019-01-15"
+  date_start = "2019-4-15"
   date_end = ""
   description = "Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?"
 
