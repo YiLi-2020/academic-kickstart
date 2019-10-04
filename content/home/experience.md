@@ -63,13 +63,13 @@ date_format = "Jan 2006"
   description = "We used CD44 to target the overexpressed glycoprotein on cancer cell membrane and by using thermosensitive liposomes we could trigger drug release at 42℃-just like in a hot spring. "
   
 [[experience]]
-  title = "Constructing a Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
-  company = "Investigator"
+  title = "Constructing a Nanosized Functional miRNA Liposomes to treatment of TNBC by silencing Slug gene"
+  company = "Research assistant"
   company_url = ""
-  location = "China Pharmaceutical University"
-  date_start = "2019-04-01"
-  date_end = ""
-  description = "Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?"
+  location = "Peking University"
+  date_start = "2016-07-01"
+  date_end = "2016-08-31"
+  description = "Learned the process of CRISPR and molecular biology experiment skills from two-month a summer research program in the State Key Laboratory of Natural and Biomimetic Drugs of Peking University."
   
 +++
 
