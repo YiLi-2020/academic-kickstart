@@ -27,12 +27,12 @@ date_format = "Jan 2006"
   description = "Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?"
 
 [[experience]]
-  title = "Using Dual Nanomedicines to Treat Metastatic Cancer"
-  company = "Co-investigator"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "China Pharmaceutical Univercity"
-  date_start = "2018-11-01"
-  date_end = "2019-3-31"
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
