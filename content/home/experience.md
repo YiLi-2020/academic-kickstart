@@ -67,8 +67,8 @@ date_format = "Jan 2006"
   company = "Research assistant"
   company_url = ""
   location = "Peking University"
-  date_start = "2016-07-01"
-  date_end = "2016-08-31"
+  date_start = "2019-07-01"
+  date_end = "2019-08-31"
   description = "Learned the process of CRISPR and molecular biology experiment skills from two-month a summer research program in the State Key Laboratory of Natural and Biomimetic Drugs of Peking University."
   
 +++
