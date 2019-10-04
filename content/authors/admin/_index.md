@@ -24,6 +24,7 @@ interests:
 - Drug-delivery-drug nanoplatform
 - Non-lysosomal pathway
 - Drug resistance
+- Gene delivery
 
 education:
   courses:
