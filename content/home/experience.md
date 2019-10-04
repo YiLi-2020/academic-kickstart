@@ -51,16 +51,16 @@ date_format = "Jan 2006"
   location = "China Pharmaceutical University"
   date_start = "2018-05-31"
   date_end = "2018-01-01"
-  description = "We set a interdisciplinary team of 5 student for the Student Entrepreneurship Competition Program to study chemoimmunotherapy for Pulmonary Hypertension.Time and funds were too limited to develop a novel active agent, so we used Baicalein extracted for the Chinese herb, which could reduce vascular resistance according Compendium of Materia Medica, and combined with p53 pathway to induce apoptosis."
+  description = "We set a interdisciplinary team of 5 student for the Student Entrepreneurship Competition Program to study chemoimmunotherapy for Pulmonary Hypertension. Time and funds were too limited to develop a novel active agent, so we used Baicalein extracted for the Chinese herb, which could reduce vascular resistance according Compendium of Materia Medica, and combined with p53 pathway to induce apoptosis."
   
 [[experience]]
-  title = "Constructing a Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
-  company = "Investigator"
+  title = "Assembling Nanoplatform from a CD44-targeted Drug and Liposomes for Dual Targeting of TME and Cancer Cells"
+  company = "Research assistant"
   company_url = ""
   location = "China Pharmaceutical University"
-  date_start = "2019-04-01"
-  date_end = ""
-  description = "Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?"
+  date_start = "2017-09-01"
+  date_end = "2017-12-31"
+  description = "We used CD44 to target the overexpressed glycoprotein on cancer cell membrane and by using thermosensitive liposomes we could trigger drug release at 42℃-just like in a hot spring. "
   
 [[experience]]
   title = "Constructing a Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
