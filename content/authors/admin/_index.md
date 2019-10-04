@@ -38,21 +38,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:yili.cpu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: skype
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: mailto:yili.cpu@gmail.com
+- icon: pubmed
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31249880/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/YiLi-2020
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
