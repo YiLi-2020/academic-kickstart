@@ -36,13 +36,13 @@ date_format = "Jan 2006"
   description = "Inspired a story from the Art of War, which documented that an ancient general blocked his enemies in a city an then defeated them as a whole, we use Marimastat‐Loaded Thermosensitive Liposomes to protect the integrity of microenvironment, and then inject PTX Ns to induce apoptosis."
 
 [[experience]]
-  title = "Constructing a Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
-  company = "Investigator"
+  title = "Determining a Drug-Delivering-Drug Platform-Mediated Protein Therapeutics via a Non-lysosomal Route"
+  company = "Co-Investigator"
   company_url = ""
   location = "China Pharmaceutical University"
-  date_start = "2019-04-01"
-  date_end = ""
-  description = "Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?"
+  date_start = "2018-06-01"
+  date_end = "2018-08-31"
+  description = "Using different carrier to deliver PTX we got very different cell uptake and distribution, so what led to the differences? How to improve delivery efficacy?"
   
 [[experience]]
   title = "Constructing a Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
