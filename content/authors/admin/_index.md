@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yi Li
 
 # Username (this should match the folder name)
 authors:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a senior student of Pharmaceutical Science at China Pharmaceutical University(CPU). In my first year, I was selected from 3000+ peer studends for the Top-Notch Innovation Program, which gave undergraduates the chance to join the research of the best groups of CPU, and I worked in the Key Laboratory of Druggability of Biopharmaceuticals since then. I have finished all courses in the first two years and now I do full-time research on drug delivery, with a focus on using one drug as the carrier to deliver another drug.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Now, the wave of nanotechnology is here, and drug delivery is the bioengineering dimension of nanotechnology.To me, studying nanotechnology just like playing LEGO-by organizing elements of different shapes and functions, we give our inspiration in mind an entity. I enjoyed the process of implementing my ideas by hand and with nano "LEGO", there is infinate space for novel therapies-that is where the action is.
