@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Investigator"
   company_url = ""
   location = "China Pharmaceutical Univercity"
-  date_start = "2018-01"
+  date_start = "2018-01-15"
   date_end = ""
   description = """
   Responsibilities include:
