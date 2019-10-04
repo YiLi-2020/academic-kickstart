@@ -31,7 +31,7 @@ subtitle = ""
     exclude_featured = false
   
 [design]
-  # Toggle between the various page layout types.
+  # Toggle between the various page layout types. 
   #   1 = List
   #   2 = Compact
   #   3 = Card
