@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Nanjing"
   date_start = "2019-01"
   date_end = ""
-  description = "Paclitaxel(PTX) is a famous anticancer agent but also brings resistance problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not us PTX as the carrier to deliver an agent that can reverse multi-drug resistance?"
+  description = "So why not us PTX as the carrier to deliver an agent that can reverse multi-drug resistance?"
 
 [[experience]]
   title = "Professor"
