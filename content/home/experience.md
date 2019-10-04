@@ -18,18 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Constructing a Smart Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
+  company = "Investigator"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Nanjing"
+  date_start = "2019-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Paclitaxel(PTX) is a famous anticancer agent but also brings resistance problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not us PTX as the carrier to deliver an agent that can reverse multi-drug resistance?
   """
 
 [[experience]]
