@@ -44,6 +44,33 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?"
   
+[[experience]]
+  title = "Constructing a Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
+  company = "Investigator"
+  company_url = ""
+  location = "China Pharmaceutical University"
+  date_start = "2019-04-01"
+  date_end = ""
+  description = "Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?"
+  
+[[experience]]
+  title = "Constructing a Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
+  company = "Investigator"
+  company_url = ""
+  location = "China Pharmaceutical University"
+  date_start = "2019-04-01"
+  date_end = ""
+  description = "Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?"
+  
+[[experience]]
+  title = "Constructing a Paclitaxel-Dichloroacetic acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
+  company = "Investigator"
+  company_url = ""
+  location = "China Pharmaceutical University"
+  date_start = "2019-04-01"
+  date_end = ""
+  description = "Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies have confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?"
+  
 +++
 
 
