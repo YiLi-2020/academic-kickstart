@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Drug-delivery-drug nanoplatform
+- Non-lysosomal pathway
+- Drug resistance
 
 education:
   courses:
