@@ -15,7 +15,7 @@ role: Undergrduate of Pharmaceutical Science
 # Organizations/Affiliations
 organizations:
 - name: China Pharmaceutical University
-  url: "www.cpu.edu.cn"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
