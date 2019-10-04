@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "Co-investigator"
   company_url = ""
   location = "China Pharmaceutical University"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2018-11-01"
+  date_end = "2016-3-31"
   description = "？？？"
 
 +++
