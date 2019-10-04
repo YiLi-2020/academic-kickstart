@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "Co-investigator"
   company_url = ""
   location = "China Pharmaceutical University"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2018-09-01"
+  date_end = "2018-12-31"
   description = "Inspired a story from the Art of War, which documented that an ancient general blocked his enemies in a city an then defeated them as a whole, we use Marimastat‐Loaded Thermosensitive Liposomes to protect the integrity of microenvironment, and then inject PTX Ns to induce apoptosis."
 
 +++
