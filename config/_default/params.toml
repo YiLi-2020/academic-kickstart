@@ -109,7 +109,7 @@ directions = "Pharmaceutical Laboratory Building, Room430"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelop", icon_pack = "fas", name = "Email Me", link = "yili.cpu@gmail.com"},
+  {icon = "envelope", icon_pack = "far", name = "Email Me", link = "yili.cpu@gmail.com"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:.cid.b1a8b130abf9a9"},
   #{icon = "wechat", icon_pack = "fab", name = "We chat", link = "15050590898"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
