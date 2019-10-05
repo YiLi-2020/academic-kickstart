@@ -1,4 +1,4 @@
-title: "An example journal article"
+title: "Locked Cancer Cells Are More Sensitive to Chemotherapy"
 authors:
 - Yaqi Lyu, Qingqing Xiao, Yi Li, Yubing Wu
 - Wei He, Lifang Yin
@@ -30,7 +30,7 @@ featured: false
 # links:
 - name: "DOI"
 url: "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/btm2.10130"
-url_pdf: https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/btm2.10130
+url_pdf: https://aiche.onlinelibrary.wiley.com/doi/pdf/10.1002/btm2.10130
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -41,10 +41,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  #focal_point: ""
-  #preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,12 +61,3 @@ projects: []
 #slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
