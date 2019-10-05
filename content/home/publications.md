@@ -1,5 +1,5 @@
 +++
-# A Recent Publications section created with the Pages widget. 
+# A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -31,12 +31,12 @@ subtitle = ""
     exclude_featured = false
   
 [design]
-  # Toggle between the various page layout types. 
+  # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -52,7 +52,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  #image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
