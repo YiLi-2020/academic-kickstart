@@ -18,19 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "GPA"
-  description = """3.5/4.0
-
-85.14/100"""
+  description = "3.5 of 4.0"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "TOFEL iBT"
-  description = """R30+L30+S23+W23
-
-R30+L30+S23+W27
-
-(Best Score)"""  
+  description = "R30+L30+S23+W23"  
   
 [[feature]]
   icon = "camera-retro"
