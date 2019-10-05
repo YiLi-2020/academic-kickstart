@@ -15,24 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "GPA"
+  icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "GPA"
   description = """3.5/4.0
+
 85.14/100"""
   
 [[feature]]
-  icon = "TOFEL ibt"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "TOFEL iBT"
   description = """R30+L30+S23+W23
+
 R30+L30+S23+W27
+
 (Best Score)"""  
   
 [[feature]]
-  icon = "GRE"
+  icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "GRE"
   description = "V157+Q165+AW3.5"
 
 +++
