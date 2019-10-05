@@ -1,10 +1,14 @@
 ---
-title: "An example journal article"
+title: "“Locked” cancer cells are more sensitive to chemotherapy"
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Yaqi. Lyv
+- Qingqing.Xiao
+- Yi. Li
+- Yubing. Wu
+- Wei. He*
+- Lifang. Yin*
+date: "2019-05-15T00:00:00Z"
+doi: "10.1002/btm2.10130"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
