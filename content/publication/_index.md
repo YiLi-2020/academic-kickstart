@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:"Locked" cancer cells are more sensitive to chemotherapy
-  caption: "???"
+  caption: ""
   image: ""
 ---
