@@ -1,71 +1,72 @@
-+++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+title: "An example journal article"
+authors:
+- Yaqi Lyu, Qingqing Xiao, Yi Li, Yubing Wu
+- Wei He, Lifang Yin
+date: "2015-09-01T00:00:00Z"
+doi: "10.1002/btm2.10130"
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+# Schedule page publish date (NOT publication's date).
+publishDate: "2019-05-15T00:00:00Z"
 
-title = "Recent Publications"
-subtitle = ""
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+# Publication name and optional abbreviated publication name.
+publication: "*Bioengineering & Translational Medicine"
+publication_short: ""
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+abstract: The treatment of metastatic cancer is a great challenging issue throughout the world. Conventional chemotherapy can kill the cancer cells and, whereas, would exacerbate the metastasis and induce drug resistance. Here, a new combinatorial treatment strategy of metastatic cancer was probed via subsequentially dosing dual nanomedicines, marimastat‐loaded thermosensitive liposomes (MATT‐LTSLs) and paclitaxel nanocrystals (PTX‐Ns), via intravenous and intratumoral injection. First, the metastasis was blocked and cancer cells were locked in the tumor microenvironment (TME) by delivering the matrix metalloproteinase (MMP) inhibitor, MATT, to the tumor with LTSLs, downregulating the MMPs by threefold and reducing the degradation of the extracellular matrix. And then, the “locked” cancer cells were efficiently killed via intratumoral injection of the other cytotoxic nanomedicine, PTX‐Ns, along with no metastasis and 100% inhibition of tumor growth. This work highlights the importance of the TME's integrity in the chemotherapy duration. We believe this is a generalized strategy for cancer treatment and has potential guidance for the clinical administration.
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+# Summary. An optional shortened abstract.
+summary: The treatment of metastatic cancer is a great challenging issue throughout the world. Conventional chemotherapy can kill the cancer cells and, whereas, would exacerbate the metastasis and induce drug resistance. Here, a new combinatorial treatment strategy of metastatic cancer was probed via subsequentially dosing dual nanomedicines
 
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
+tags:
+- Source Themes
+featured: false
+
+# links:
+- name: "DOI"
+url: "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/btm2.10130"
+url_pdf: https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/btm2.10130
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #focal_point: ""
+  #preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#slides: example
+---
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
