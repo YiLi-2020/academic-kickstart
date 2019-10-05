@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Bioengineering & Translational Medicine"
 publication_short: ""
 
 abstract: The treatment of metastatic cancer is a great challenging issue throughout the world. Conventional chemotherapy can kill the cancer cells and, whereas, would exacerbate the metastasis and induce drug resistance. Here, a new combinatorial treatment strategy of metastatic cancer was probed via subsequentially dosing dual nanomedicines, marimastat‐loaded thermosensitive liposomes (MATT‐LTSLs) and paclitaxel nanocrystals (PTX‐Ns), via intravenous and intratumoral injection. First, the metastasis was blocked and cancer cells were locked in the tumor microenvironment (TME) by delivering the matrix metalloproteinase (MMP) inhibitor, MATT, to the tumor with LTSLs, downregulating the MMPs by threefold and reducing the degradation of the extracellular matrix. And then, the “locked” cancer cells were efficiently killed via intratumoral injection of the other cytotoxic nanomedicine, PTX‐Ns, along with no metastasis and 100% inhibition of tumor growth. This work highlights the importance of the TME's integrity in the chemotherapy duration. We believe this is a generalized strategy for cancer treatment and has potential guidance for the clinical administration.
@@ -66,5 +66,5 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
