@@ -24,6 +24,8 @@ date_format = "Jan 2006"
   title = "The Outstanding Student Scholarship of Top-Notch Inovative Program "
   url = ""
   certificate_url = ""
+  date_start = "2019-10-01"
+  date_end = ""
   description = "Offered to the students who passed the Annual Expert Assessment in the Top-Notch Innovative Program"
 
 [[item]]
