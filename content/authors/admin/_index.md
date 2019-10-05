@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am a senior student of China Pharmaceutical University(CPU). In my first year, I was selected from 3000+ peer studends for the Top-Notch Innovation Program, which gave undergraduates the chance to join the best groups of CPU, and I worked in the Key Laboratory of Druggability of Biopharmaceuticals since then. Currently I do full-time research on drug delivery, with a focus on using one drug as the carrier to deliver another drug.
+I am a senior student of China Pharmaceutical University(CPU). In my first year, I was selected from 3000+ peer studends for the Top-Notch Innovative Program, which gave undergraduates the chance to join the best groups of CPU, and I worked in the Key Laboratory of Druggability of Biopharmaceuticals since then. Currently I do full-time research on drug delivery, with a focus on using one drug as the carrier to deliver another drug.
 
 Now, the wave of nanotechnology is here, and drug delivery is the bioengineering dimension of nanotechnology. To me, studying nanotechnology just like playing LEGO-by organizing elements of different shapes and functions, we give our inspiration an entity. I enjoyed the process of implementing my ideas by hand and with nano "LEGO", there is infinate space for novel therapies-that is where the action is.
