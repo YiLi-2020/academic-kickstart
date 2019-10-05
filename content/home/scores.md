@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "TOFEL iBT"
-  description = "R30+L30+S23+W23"  
+  description = "106=R30+L30+S23+W23"  
   
 [[feature]]
   icon = "camera-retro"
