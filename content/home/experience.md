@@ -32,6 +32,7 @@ date_format = "Jan 2006"
 ·Cultured PTX-resistant cells and studied cytotoxicity, uptake and distribution, etc.
 ·Confirmed the non-lysosomal pathway. 
 ·Undertook a research project independently.
+
 """
 
 [[experience]]
