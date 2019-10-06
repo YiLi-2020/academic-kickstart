@@ -17,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Bioengineering & Translational Medicine"
+publication: ""
 publication_short: ""
 
-abstract: The treatment of metastatic cancer is a great challenging issue throughout the world. Conventional chemotherapy can kill the cancer cells and, whereas, would exacerbate the metastasis and induce drug resistance. Here, a new combinatorial treatment strategy of metastatic cancer was probed via subsequentially dosing dual nanomedicines, marimastat‐loaded thermosensitive liposomes (MATT‐LTSLs) and paclitaxel nanocrystals (PTX‐Ns), via intravenous and intratumoral injection. First, the metastasis was blocked and cancer cells were locked in the tumor microenvironment (TME) by delivering the matrix metalloproteinase (MMP) inhibitor, MATT, to the tumor with LTSLs, downregulating the MMPs by threefold and reducing the degradation of the extracellular matrix. And then, the “locked” cancer cells were efficiently killed via intratumoral injection of the other cytotoxic nanomedicine, PTX‐Ns, along with no metastasis and 100% inhibition of tumor growth. This work highlights the importance of the TME's integrity in the chemotherapy duration. We believe this is a generalized strategy for cancer treatment and has potential guidance for the clinical administration.
+abstract: We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
 
 # Summary. An optional shortened abstract.
-summary: Conventional chemotherapy can kill the cancer cells and, whereas, would exacerbate the metastasis and induce drug resistance. Here, a new combinatorial treatment strategy of metastatic cancer was probed via subsequentially dosing dual nanomedicines, marimastat‐loaded thermosensitive liposomes (MATT‐LTSLs) and paclitaxel nanocrystals (PTX‐Ns), via intravenous and intratumoral injection. 
+summary: We helped patients who suffered from advanced cancer by palliative care and psychotherapy.
 
 tags:
 - Source Themes
@@ -32,11 +32,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://aiche.onlinelibrary.wiley.com/doi/pdf/10.1002/btm2.10130
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: http://www.hospice.com.cn
 url_slides: ''
 url_source: ''
 url_video: ''
