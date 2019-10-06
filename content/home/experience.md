@@ -45,8 +45,8 @@ date_format = "Jan 2006"
   company = "Co-investigator"
   company_url = ""
   location = "China Pharmaceutical University"
-  date_start = "2019-05-31"
-  date_end = "2019-01-01"
+  date_start = "2019-01-01"
+  date_end = "2019-05-31"
   description = """
   Inspired by a story from the Art of War, which documented that an ancient general blocked his enemies in a city an then defeated them as a whole, we use marimastat‐loaded thermosensitive liposomes to protect the integrity of microenvironment, and then inject PTX Ns to induce apoptosis.
   
@@ -87,8 +87,8 @@ date_format = "Jan 2006"
   company = "Team leader"
   company_url = ""
   location = "China Pharmaceutical University"
-  date_start = "2018-05-31"
-  date_end = "2018-01-01"
+  date_start = "2018-01-01"
+  date_end = "2018-05-31"
   description = """We set an interdisciplinary team for the Student Entrepreneurship Competition Program to study chemoimmunotherapy for Pulmonary Hypertension. Time and funds were too limited to develop a novel active agent, so we used Baicalein, extracted from the a Chinese herb, to reduce vascular resistance.
 
 ·Presided over the preliminary work, including project planning, carrier design, etc.
