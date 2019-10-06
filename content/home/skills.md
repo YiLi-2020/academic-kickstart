@@ -15,10 +15,11 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "galactic-senate"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Black Tech"
+  description = """Designed and programmed a drone at 10,
+  also interested in aerial photography and stunt competition. """
   
 [[feature]]
   icon = "chart-line"
