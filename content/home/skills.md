@@ -17,19 +17,37 @@ subtitle = ""
   icon = "music"
   icon_pack = "fas"
   name = "Instrumental Music"
-  description = "A semi-professional pianist, also learned guitar, Ukulele and Irish whistle by self-learning, and cello from electives"
+  description = """
+  
+  semi-professional pianist(semi-professional); 
+  
+  guitar, Ukulele and Irish whistle(self-learned) 
+  
+  cello from electives(from electives)
+  
+  """
   
 [[feature]]
   icon = "globe"
   icon_pack = "fas"
   name = "Lantuage"
-  description = "A native Chinese speaker with very good English skills, also learned a little Italian from operas and Japanese from comics"
+  description = """
+  
+  Chinese(native)
+  
+  English(fluent) 
+  
+  Italian(from operas) 
+  
+  Japanese(from electives)
+  
+  """
   
   [[feature]]
   icon = "figshare"
   icon_pack = "ai"
   name = "Memory"
-  description = "Capable of remembering 200 numbers after the decimal point of PI"
+  description = "Capable of remembering 200 decimals of PI"
 
 
 [[feature]]
