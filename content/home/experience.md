@@ -107,7 +107,15 @@ date_format = "Jan 2006"
   location = "Peking University"
   date_start = "2019-07-01"
   date_end = "2019-08-31"
-  description = "Learned the process of CRISPR and molecular biology experiment skills from a two-month summer research program in the State Key Laboratory of Natural and Biomimetic Drugs of Peking University."
+  description = """Participated a project on using CRISPR-Cas9 to triple negative breast cancer(TNBC) in a two-month summer research program in the State Key Laboratory of Natural and Biomimetic Drugs of Peking University.
+
+·Designed and synthesized targeted gene, and verified by sequencing technology.
+
+·Transformed edited plasmids, cultured E. coli, extracted and purified plasmids.
+
+·Learned basic skill of gene engineering and molecular biology.
+
+"""
   
 +++
 
