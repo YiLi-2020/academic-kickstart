@@ -51,16 +51,12 @@ date_format = "Jan 2006"
   Inspired by a story from the Art of War, which documented that an ancient general blocked his enemies in a city an then defeated them as a whole, we use marimastat‐loaded thermosensitive liposomes to protect the integrity of microenvironment, and then inject PTX Ns to induce apoptosis.
   
 ·Participated in literature reviewing and made hypotheses.
-
 ·Prepared and characterized nanoparticles.
-
 ·Studied on pharmacodynamics, and build pharmacokinetics models.
-
 ·Drew diagram of mechanism and wrote part of the article.
-
 ·Experienced an entire research process. 
   
-  ""
+ """
 
 [[experience]]
   title = "Determining a Drug-Delivering-Drug Platform-Mediated Protein Therapeutics via a Non-lysosomal Route"
