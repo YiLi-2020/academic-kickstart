@@ -69,7 +69,18 @@ date_format = "Jan 2006"
   location = "China Pharmaceutical University"
   date_start = "2018-06-01"
   date_end = "2018-08-31"
-  description = "Using different carrier to deliver PTX we got very different cell uptake and distribution, so what led to the differences? How to improve delivery efficacy?"
+  description = """
+  Using different carrier to deliver PTX we got very different cell uptake and distribution, so what led to the differences? How to improve delivery efficacy?
+  
+·Designed and prepared nanoparticle using model protein and drug.
+
+·Set experiments to control different morphology parameter of nanoparticles.
+
+·Studied the mechanism of endocytosis and intracellular distribution.
+
+·Acquired the ability to operate most lab equipments and workshops.
+
+"""
   
 [[experience]]
   title = "Baicalein-mediated delivery of p53 in therapeutics of Pulmonary Hypertension"
