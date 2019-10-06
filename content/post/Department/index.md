@@ -1,9 +1,9 @@
 ---
-title: "National Hospice Service Program"
+title: "Pharmacy Department Internship Program"
 authors:
-- Doctor assistant
+- Pharmacist assistant
 - Fujian Provincial Hospital
-- Jul.2016-present
+- Nov.2017-Feb.2018
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
@@ -20,10 +20,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+abstract: We assisted to prepare prescription in hospital, process Chinese medicine and test new drug.This experience made me familiar with clinical needs and herbology.
 
 # Summary. An optional shortened abstract.
-summary: We helped patients who suffered from advanced cancer by palliative care and psychotherapy.
+summary:  We assisted to prepare prescription in hospital, process Chinese medicine and test new drug.
 
 tags:
 - Source Themes
@@ -62,4 +62,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+### We assisted to prepare prescription in hospital, process Chinese medicine and test new drug.This experience made me familiar with clinical needs and herbology.
