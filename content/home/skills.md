@@ -26,8 +26,8 @@ subtitle = ""
   description = "A native Chinese speaker with very good English skills, also learned a little Italian from operas and Japanese from comics"
   
   [[feature]]
-  icon = "music"
-  icon_pack = "fas"
+  icon = "figshare"
+  icon_pack = "ai"
   name = "Memory"
   description = "Capable of remembering 200 numbers after the decimal point of PI"
 
