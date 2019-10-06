@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "·Oct 2019"
+  organization = " ·Oct 2019"
   organization_url = ""
   title = "The Outstanding Student Scholarship of Top-Notch Inovative Program "
   url = ""
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   description = "Offered to the students who had excellent academic performance in the summer programs"
 
   [[item]]
-  organization = "·Jun 2018"
+  organization = " ·Jun 2018"
   organization_url = ""
   title = "The Honorary Title of Excellent Volunteers of CPU "
   url = ""
