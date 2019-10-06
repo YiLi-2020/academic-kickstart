@@ -1,9 +1,9 @@
 ---
-title: "National Hospice Service Program"
+title: "Teaching Assistant of the Science College of CPU"
 authors:
-- Doctor assistant
-- Fujian Provincial Hospital
-- Jul.2016-present
+- Teaching assistant
+- China Pharmaceutical University
+- Nov.2016-Jun.2018
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
@@ -38,7 +38,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 
+url_project: http://lxy.cpu.edu.cn
 url_slides: ''
 url_source: ''
 url_video: ''
