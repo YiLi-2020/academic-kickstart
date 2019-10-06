@@ -56,14 +56,6 @@ subtitle = ""
   irregular cubes(20+ types)
   
   """  
- 
- 
- [[feature]]
-  icon = "figshare"
-  icon_pack = "ai"
-  name = "Memory"
-  description = "capable of remembering 200 decimals of PI"
-
 
 [[feature]]
   icon = "galactic-senate"
@@ -76,6 +68,12 @@ subtitle = ""
   aerial photography & atunt competition
   
   """
+  
+   [[feature]]
+  icon = "figshare"
+  icon_pack = "ai"
+  name = "Memory"
+  description = "capable of remembering 200 decimals of PI"
   
   [[feature]]
   icon = "dryad"
