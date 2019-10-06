@@ -23,7 +23,7 @@ subtitle = ""
   
   guitar, Ukulele and Irish whistle(self-learned) 
   
-  cello from electives(from electives)
+  cello(from electives)
   
   """
   
