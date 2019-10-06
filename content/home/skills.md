@@ -81,7 +81,7 @@ subtitle = ""
   name = "Herbal Medecine"
   description = """
   
-  identifying & Processing traditional herbs
+  identifying & processing traditional herbs
   
   being familiar with active ingredients and indications
   
