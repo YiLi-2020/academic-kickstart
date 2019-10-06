@@ -1,9 +1,9 @@
 ---
-title: "National Hospice Service Program"
+title: "Outpatient Pharmacy Volunteer Program"
 authors:
 - Doctor assistant
-- Fujian Provincial Hospital
-- Jul.2016-present
+- Nanjing First Hospital
+- Nov.2016-Oct.2017
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
@@ -20,10 +20,12 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+abstract: We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.
+This experience made me familiar with names, classification, and indications of common drugs.
 
 # Summary. An optional shortened abstract.
-summary: We helped patients who suffered from advanced cancer by palliative care and psychotherapy.
+summary: We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.
+This experience made me familiar with names, classification, and indications of common drugs.
 
 tags:
 - Source Themes
@@ -62,4 +64,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+### We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.
+This experience made me familiar with names, classification, and indications of common drugs.
