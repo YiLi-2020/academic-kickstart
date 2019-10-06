@@ -30,7 +30,7 @@ subtitle = ""
 [[feature]]
   icon = "globe"
   icon_pack = "fas"
-  name = "Lantuage"
+  name = "Language"
   description = """
   
   Chinese(native)
