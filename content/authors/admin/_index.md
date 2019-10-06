@@ -30,13 +30,13 @@ education:
   courses:
   - course: China Pharmaceutical University
     institution:BS in Pharmaceutical Science 
-    year: Sept.2016-Jue.2020
+    year:2016-2020
   - course: Peiking University
     institution:Summer Research Program 
-    year: Jul.2019-Aug.2019
+    year:2019
   - course: University of StrathClyde
     institution:Summer Visiting Program 
-    year: Jul.2018-Aug.2018
+    year:2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
