@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = " Offered to the top 10% of 100 student"
   organization_url = ""
-  title = "The Third-Class Scholarship from CPU "
+  title = "The Third-Class Scholarship from CPU                                                  "
   url = ""
   certificate_url = ""
   date_start = "2017-10-01"
