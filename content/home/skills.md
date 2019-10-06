@@ -63,7 +63,7 @@ subtitle = ""
   name = "Black Tech"
   description = """
   
-  designed and programmed a drone at 10 
+  designed and programmed a drone at 16 
   
   aerial photography & stunt competition
   
