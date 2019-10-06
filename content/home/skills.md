@@ -18,8 +18,10 @@ subtitle = ""
   icon = "galactic-senate"
   icon_pack = "fab"
   name = "Black Tech"
-  description = """Designed and programmed a drone at 10,
-  also interested in aerial photography and stunt competition. """
+  description = """
+  Designed and programmed a drone at 10,
+  also interested in aerial photography and stunt competition. 
+  """
   
 [[feature]]
   icon = "chart-line"
