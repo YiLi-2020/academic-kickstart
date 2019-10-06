@@ -1,7 +1,7 @@
 ---
 title: "Outpatient Pharmacy Volunteer Program"
 authors:
-- Doctor assistant
+- Pharmacist Assistant
 - Nanjing First Hospital
 - Nov.2016-Oct.2017
 date: "2019-05-15T00:00:00Z"
@@ -20,8 +20,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.
-This experience made me familiar with names, classification, and indications of common drugs.
+abstract: We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.This experience made me familiar with names, classification, and indications of common drugs.
 
 # Summary. An optional shortened abstract.
 summary: We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.
@@ -64,5 +63,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.
-This experience made me familiar with names, classification, and indications of common drugs.
+### We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.This experience made me familiar with names, classification, and indications of common drugs.
