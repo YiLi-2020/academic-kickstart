@@ -65,7 +65,7 @@ subtitle = ""
   
   designed and programmed a drone at 10 
   
-  aerial photography & atunt competition
+  aerial photography & stunt competition
   
   """
   
