@@ -1,14 +1,11 @@
 ---
 title: "National Hospice Service Program"
 authors:
-- Yaqi Lyv
-- Qingqing Xiao
-- admin
-- Yubing Wu
-- Wei He*
-- Lifang Yin*
+- Doctor assistant
+- Fujian Provincial Hospital
+- Jul.2016-present
 date: "2019-05-15T00:00:00Z"
-doi: "10.1002/btm2.10130"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
