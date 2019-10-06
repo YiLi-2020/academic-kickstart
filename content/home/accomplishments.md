@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Offered to the students who passed the Annual Expert Assessment in the program  ·  Oct 2018"
+  organization = "Offered to the students who passed the Annual Expert Assessment in the program   ·   Oct 2018"
   organization_url = ""
   title = "The Outstanding Student Scholarship of Top-Notch Inovative Program "
   url = ""
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
   
 [[item]]
-  organization = " Offered to the top 10% of 100 student"
+  organization = "Offered to the top 10% of 100 student"
   organization_url = ""
   title = "The Third-Class Scholarship from CPU                                                  "
   url = ""
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   description = ""
   
   [[item]]
-  organization = " Offered to the students who had excellent academic performance in summer programs"
+  organization = "Offered to the students who had excellent academic performance in summer programs"
   organization_url = ""
   title = "The Third-Class Scholarship of Exploring World Plan "
   url = ""
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   description = ""
 
   [[item]]
-  organization = "Offered to the students who served the community and did a good job  · Jun 2018"
+  organization = "Offered to the students who served the community and did a good job   ·  Jun 2018"
   organization_url = ""
   title = "The Honorary Title of Excellent Volunteers of CPU "
   url = ""
