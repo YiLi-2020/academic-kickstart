@@ -31,9 +31,9 @@ education:
   - course: China Pharmaceutical University
     institution: B.S. in Pharmaceutical Science
     year: Sept.2016-Jun.2020
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: Peking University
+    institution: Summer Research Program
+    year: Jul.2019-Aug.2019
   - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University
     year: Sept.2016-Jun.2020
