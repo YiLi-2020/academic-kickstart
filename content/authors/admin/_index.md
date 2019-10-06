@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-  - course: China Pharmaceutical University
+  - course:China Pharmaceutical University
     institution:BS in Pharmaceutical Science 
     year:2016-2020
-  - course: Peiking University
+  - course:Peiking University
     institution:Summer Research Program 
     year:2019
-  - course: University of StrathClyde
+  - course:University of StrathClyde
     institution:Summer Visiting Program 
     year:2018
 
