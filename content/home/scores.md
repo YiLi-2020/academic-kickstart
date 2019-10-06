@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "graduation-cap"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "GPA"
   description = "3.5 of 4.0"
   
 [[feature]]
   icon = "globe-americas"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "TOFEL iBT"
   description = "106=R30+L30+S23+W23"  
   
