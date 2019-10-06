@@ -1,9 +1,9 @@
 ---
-title: "National Hospice Service Program"
+title: "Outpatient Pharmacy Volunteer Program"
 authors:
-- Doctor assistant
-- Fujian Provincial Hospital
-- Jul.2016-present
+- Pharmacist assistant
+- Nanjing First Hospital
+- Nov.2016-Oct.2017
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
