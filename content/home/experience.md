@@ -114,7 +114,7 @@ date_format = "Jan 2006"
 
 ·Measured and recorded the weight and tumor size of the mice.
 
-·Learned to design multifunctional carriers, acquired experiment skills and principles.
+·Learned to design multifunctional carriers, and acquired experiment skills and principles.
 
 """
   
