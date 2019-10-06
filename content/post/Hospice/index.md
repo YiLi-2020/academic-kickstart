@@ -62,4 +62,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### Did you find this page helpful? Consider sharing it 🙌
+### We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
