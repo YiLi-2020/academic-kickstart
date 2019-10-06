@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-10-01"
   date_end = ""
-  description = "Offered to the top 10% of 100 student"
+  description = ""
   
   [[item]]
   organization = " "
