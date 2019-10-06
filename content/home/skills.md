@@ -44,5 +44,11 @@ subtitle = ""
   name = "Rubik's Cube"
   description = "Solved the 3x3 cube independently, also interested in solving polyhedral and irregular cubes"  
   
+  [[feature]]
+  icon = "dryad"
+  icon_pack = "ai"
+  name = "Herbal Medecine"
+  description = "Interested in identifying and processing traditional herbs, also familiar with their active ingredients and indications" 
+
 
 +++
