@@ -89,7 +89,16 @@ date_format = "Jan 2006"
   location = "China Pharmaceutical University"
   date_start = "2018-05-31"
   date_end = "2018-01-01"
-  description = "We set a interdisciplinary team of 5 student for the Student Entrepreneurship Competition Program to study chemoimmunotherapy for Pulmonary Hypertension. Time and funds were too limited to develop a novel active agent, so we used Baicalein extracted for the Chinese herb, which could reduce vascular resistance according Compendium of Materia Medica, and combined with p53 pathway to induce apoptosis."
+  description = """We set an interdisciplinary team for the Student Entrepreneurship Competition Program to study chemoimmunotherapy for Pulmonary Hypertension. Time and funds were too limited to develop a novel active agent, so we used Baicalein, extracted from the a Chinese herb, to reduce vascular resistance.
+
+·Presided over the preliminary work, including project planning, carrier design, etc.
+
+·Established pulmonary embolism in a rat model and studied the anti-PAH efficacy.
+
+·Collected and processed biological samples to do pharmacokinetics studies.
+
+·Presented achievements by analyzing data and diagrams, and passed the defence.
+  """
   
 [[experience]]
   title = "Assembling Nanoplatform from a CD44-targeted Drug and Liposomes for Dual Targeting of TME and Cancer Cells"
