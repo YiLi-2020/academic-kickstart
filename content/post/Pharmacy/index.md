@@ -62,5 +62,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+### We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.This experience made me familiar with names, classification, and indications of common drugs.
 
