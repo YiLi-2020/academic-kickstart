@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course: BS in Pharmaceutical Science
-    institution: China Pharmaceutical University
-    year: 2016-2020
-  - course: Summer Research Program
-    institution: Peiking University
-    year: 2019
-  - course: Summer Visiting Program
-    institution: University of StrathClyde
-    year: 2018
+  - course: China Pharmaceutical University
+    institution:BS in Pharmaceutical Science 
+    year: Sept.2016-Jue.2020
+  - course: Peiking University
+    institution:Summer Research Program 
+    year: Jul.2019-Aug.2019
+  - course: University of StrathClyde
+    institution:Summer Visiting Program 
+    year: Jul.2018-Aug.2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -68,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-I am a senior student of China Pharmaceutical University(CPU). In my first year, I was selected from 3000+ peer studends for the Top-Notch Innovative Program, which gave undergraduates the chance to join the best groups of CPU, and I worked in the Key Laboratory of Druggability of Biopharmaceuticals since then. Currently I do full-time research on drug delivery, with a focus on using one drug as the carrier to deliver another drug.
+I am a senior student at China Pharmaceutical University(CPU). In my first year, I was selected from 3000+ peer students for the Top-Notch Innovative Program, which gave undergraduates the chance to join the best groups of CPU. I worked in the Key Laboratory of Druggability of Biopharmaceuticals since then. 
 
-Now, the wave of nanotechnology is here, and drug delivery is the bioengineering dimension of nanotechnology. To me, studying nanotechnology just like playing LEGO-by organizing elements of different shapes and functions, we give our inspiration an entity. I enjoyed the process of implementing my ideas by hand and with nano "LEGO", there is infinate space for novel therapies-that is where the action is.
+My research focuses on drug delivery and currently I lead a project on constructing a smart nanoplatform using one drug as the carrier to deliver another drug.
+
+Drug delivery is a highly multidisciplinary area. To me, it is just like playing LEGO-by organizing elements of different shapes and functions, we build brilliant gadgets. I enjoyed the process of implementing my ideas by hand and with nano “LEGO”, there is unlimited space for novel medicine revolutions-that is where the action is.
