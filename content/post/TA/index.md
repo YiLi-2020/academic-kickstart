@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant of the Science College of CPU"
+title: "Teaching Assistant of the Science College "
 authors:
 - Teaching assistant
 - China Pharmaceutical University
