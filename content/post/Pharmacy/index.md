@@ -23,8 +23,7 @@ publication_short: ""
 abstract: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. This experience made me familiar with names, classification, and indications of common drugs.
 
 # Summary. An optional shortened abstract.
-summary: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. This experience made me familiar with names, classification, and indications of common drugs.
-tags:
+summary: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. 
 - Source Themes
 featured: false
 
@@ -35,7 +34,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: http://www.hospice.com.cn
+url_project: http://en.dih-tech.com/about/index.html 
 url_slides: ''
 url_source: ''
 url_video: ''
