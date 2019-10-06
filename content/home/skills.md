@@ -26,10 +26,14 @@ also interested in aerial photography and stunt competition.
   """
   
 [[feature]]
-  icon = "chart-line"
+  icon = "cubes"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Rubik's Cube"
+  description = """
+  
+  Solved the 3x3 cube independently, 
+  also interested in solving polyhedral and irregular cubes.
+  """  
   
 [[feature]]
   icon = "camera-retro"
