@@ -30,7 +30,7 @@ date_format = "Jan 2006"
  ·Designed experiments and optimized conditions with the help of Design Expert.
  ·Studied binding mechanism based on component analysis and characterization.
  ·Cultured PTX-resistant cells and studied cytotoxicity, uptake and distribution, etc.
- ·Confirmed the non-lysosomal pathway.
+ ·Confirmed the non-lysosomal pathway. 
  ·Undertook a research project independently."""
 
 [[experience]]
