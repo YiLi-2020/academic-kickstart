@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = " ·  Oct 2018"
+  organization = "Offered to the students who passed the Annual Expert Assessment in the program  ·  Oct 2018"
   organization_url = ""
   title = "The Outstanding Student Scholarship of Top-Notch Inovative Program "
   url = ""
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = ""
-  description = "Offered to the students who passed the Annual Expert Assessment in the program"
+  description = ""
 
   
 [[item]]
@@ -40,32 +40,32 @@ date_format = "Jan 2006"
   description = ""
   
   [[item]]
-  organization = " "
+  organization = " Offered to the students who had excellent academic performance in summer programs"
   organization_url = ""
   title = "The Third-Class Scholarship of Exploring World Plan "
   url = ""
   certificate_url = ""
   date_start = "2018-05-01"
   date_end = ""
-  description = "Offered to the students who had excellent academic performance in the summer programs"
+  description = ""
 
   [[item]]
-  organization = " ·Jun 2018"
+  organization = "Offered to the students who served the community and did a good job  · Jun 2018"
   organization_url = ""
   title = "The Honorary Title of Excellent Volunteers of CPU "
   url = ""
   certificate_url = ""
   date_start = "2017-06-01"
   date_end = ""
-  description = "Offered to the students who served the community and did a good job"
+  description = ""
   
   [[item]]
-  organization = " "
+  organization = "Offered to the young musicians in the campus symphony orchestra "
   organization_url = ""
-  title = "The Honorary Title of Piano Accompaniment of the Campus Symphony Orchestra "
+  title = "The Honorary Title of Piano Accompaniment of the Campus Orchestra "
   url = ""
   certificate_url = ""
   date_start = "2019-06-01"
   date_end = ""
-  description = "Offered to the young musicians in the campus symphony orchestra"
+  description = ""
 +++
