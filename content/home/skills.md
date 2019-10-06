@@ -19,8 +19,10 @@ subtitle = ""
   icon_pack = "fab"
   name = "Black Tech"
   description = """
-  Designed and programmed a drone at 10,
-  also interested in aerial photography and stunt competition. 
+ 
+Designed and programmed a drone at 10,
+also interested in aerial photography and stunt competition. 
+  
   """
   
 [[feature]]
