@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: China Pharmaceutical University
+    institution: B.S. in Pharmaceutical Science
+    year: Sept.2016-Jun.2020
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
