@@ -28,11 +28,12 @@ date_format = "Jan 2006"
   description = """
   Paclitaxel(PTX) is a famous anticancer agent but also brings multi-drug resistance(MDR) problem. Former studies confirmed that rod-shape nanoparticles, including PTX, enter cells via a non-lysosomal pathway, so why not use PTX as the carrier to deliver an agent that can reverse MDR?
   
+·Undertook a research project independently.
 ·Designed experiments and optimized conditions with the help of Design Expert.
 ·Studied binding mechanism based on component analysis and characterization.
 ·Cultured PTX-resistant cells and studied cytotoxicity, uptake and distribution, etc.
 ·Confirmed the non-lysosomal pathway. 
-·Undertook a research project independently.
+
 
 
 """
