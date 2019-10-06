@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course:China Pharmaceutical University
-    institution:BS in Pharmaceutical Science 
-    year:2016-2020
-  - course:Peiking University
-    institution:Summer Research Program 
-    year:2019
-  - course:University of StrathClyde
-    institution:Summer Visiting Program 
-    year:2018
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: B.S. in Pharmaceutical Science
+    institution: China Pharmaceutical University
+    year: Sept.2016-Jun.2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
