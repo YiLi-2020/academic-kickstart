@@ -1,9 +1,9 @@
 ---
-title: "Outpatient Pharmacy Volunteer Program"
+title: "National Hospice Service Program"
 authors:
-- Pharmacist assistant
-- Nanjing First Hospital
-- Nov.2016-Oct.2017
+- Doctor assistant
+- Fujian Provincial Hospital
+- Jul.2016-present
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
@@ -20,10 +20,12 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. This experience made me familiar with names, classification, and indications of common drugs.
+abstract: We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
 
 # Summary. An optional shortened abstract.
-summary: We worked in an intelligent pharmacy workshop to manage and dispense clinical medicines. 
+summary: We helped patients who suffered from advanced cancer by palliative care and psychotherapy.
+
+tags:
 - Source Themes
 featured: false
 
@@ -34,7 +36,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project:  
+url_project: http://en.dih-tech.com/?lang=en
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -60,5 +62,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We worked in intelligent pharmacy workshop to manage and dispense clinical medicines.This experience made me familiar with names, classification, and indications of common drugs.
-
+### We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
