@@ -34,7 +34,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: http://en.dih-tech.com/about/index.html 
+url_project: http://en.dih-tech.com/?lang=en 
 url_slides: ''
 url_source: ''
 url_video: ''
