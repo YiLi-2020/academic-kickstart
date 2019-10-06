@@ -20,10 +20,12 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+abstract: I helped junior students with their courses, including Calculus, Algebra and Physics, which they had difficulty studying with.
+
 
 # Summary. An optional shortened abstract.
-summary: We helped patients who suffered from advanced cancer by palliative care and psychotherapy.
+summary: I helped junior students with their courses, including Calculus, Algebra and Physics, which they had difficulty studying with.
+
 
 tags:
 - Source Themes
@@ -62,4 +64,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### We helped patients who suffered from advanced cancer by palliative care and psychotherapy. To cure  the cancer sounds like a big slogan, but I believe the power of this sentence lies in every researchers’ lifelong faith and continuous endeavors.
+### I helped junior students with their courses, including Calculus, Algebra and Physics, which they had difficulty studying with.
+
