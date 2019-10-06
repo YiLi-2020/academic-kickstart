@@ -98,7 +98,16 @@ date_format = "Jan 2006"
   location = "China Pharmaceutical University"
   date_start = "2017-09-01"
   date_end = "2017-12-31"
-  description = "We used CD44 to target the overexpressed glycoprotein on cancer cell membrane and by using thermosensitive liposomes we could trigger drug release at 42℃-just like in a hot spring. "
+  description = """
+  We used CD44 to target the overexpressed glycoprotein on cancer cell membrane and by using thermosensitive liposomes we could trigger drug release at 42℃-just like in a hot spring. 
+
+·Prepared liposomes and compared effect with normal liposomes and free drugs.
+
+·Measured and recorded the weight and tumor size of the mice.
+
+·Learned to design multifunctional carriers, acquired experiment skills and principles.
+
+"""
   
 [[experience]]
   title = "Constructing a Nanosized Functional miRNA Liposomes to treatment of TNBC by silencing Slug gene"
