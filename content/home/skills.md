@@ -36,9 +36,9 @@ also interested in aerial photography and stunt competition.
   """  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "globe"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Lantuage"
+  description = "A native Chinese speaker with very good English skills, also learned a little Italian from operas and Japanese from comics."
 
 +++
