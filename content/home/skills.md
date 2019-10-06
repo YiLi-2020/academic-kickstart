@@ -19,7 +19,7 @@ subtitle = ""
   name = "Instrumental Music"
   description = """
   
-  semi-professional pianist(semi-professional); 
+  piano(semi-professional); 
   
   guitar, Ukulele and Irish whistle(self-learned) 
   
@@ -44,29 +44,50 @@ subtitle = ""
   """
   
   [[feature]]
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Rubik's Cube"
+  description = """
+  
+  solved the 3x3 cube independently at 10 
+  
+  polyhedral cubes(10+ types) 
+  
+  irregular cubes(20+ types)
+  
+  """  
+ 
+ 
+ [[feature]]
   icon = "figshare"
   icon_pack = "ai"
   name = "Memory"
-  description = "Capable of remembering 200 decimals of PI"
+  description = "capable of remembering 200 decimals of PI"
 
 
 [[feature]]
   icon = "galactic-senate"
   icon_pack = "fab"
   name = "Black Tech"
-  description = "Designed and programmed a drone at 10, also interested in aerial photography and stunt competition"
+  description = """
   
-[[feature]]
-  icon = "cubes"
-  icon_pack = "fab"
-  name = "Rubik's Cube"
-  description = "Solved the 3x3 cube independently, also interested in solving polyhedral and irregular cubes"  
+  designed and programmed a drone at 10 
+  
+  aerial photography & atunt competition
+  
+  """
   
   [[feature]]
   icon = "dryad"
   icon_pack = "ai"
   name = "Herbal Medecine"
-  description = "Interested in identifying and processing traditional herbs, also familiar with their active ingredients and indications" 
+  description = """
+  
+  identifying & Processing traditional herbs
+  
+  being familiar with active ingredients and indications
+  
+  """ 
 
 
 +++
