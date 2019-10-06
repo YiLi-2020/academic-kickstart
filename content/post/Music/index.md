@@ -1,9 +1,9 @@
 ---
-title: "National Hospice Service Program"
+title: "The Campus Symphony Orchestra"
 authors:
-- Doctor assistant
-- Fujian Provincial Hospital
-- Jul.2016-present
+- Pianist
+- China Pharmaceutical University
+- Oct.2016-present
 date: "2019-05-15T00:00:00Z"
 doi: ""
 
@@ -36,7 +36,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 
+url_project: http://www.cpu.edu.cn
 url_slides: ''
 url_source: ''
 url_video: ''
