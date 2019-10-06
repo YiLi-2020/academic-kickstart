@@ -36,13 +36,13 @@ subtitle = ""
   icon = "galactic-senate"
   icon_pack = "fab"
   name = "Black Tech"
-  description = "Designed and programmed a drone at 10, also interested in aerial photography and stunt competition. ”
+  description = "Designed and programmed a drone at 10, also interested in aerial photography and stunt competition"
   
 [[feature]]
   icon = "cubes"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Rubik's Cube"
-  description = "Solved the 3x3 cube independently, also interested in solving polyhedral and irregular cubes."  
+  description = "Solved the 3x3 cube independently, also interested in solving polyhedral and irregular cubes"  
   
 
 +++
