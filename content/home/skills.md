@@ -13,6 +13,18 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+[[feature]]
+  icon = "music"
+  icon_pack = "fas"
+  name = "Instrumental Music"
+  description = "A semi-professional pianist, also learned guitar,Ukulele and Irish whistle by self-learning, and cello from electives."
+  
+[[feature]]
+  icon = "globe"
+  icon_pack = "fas"
+  name = "Lantuage"
+  description = "A native Chinese speaker with very good English skills, also learned a little Italian from operas and Japanese from comics."
+
 
 [[feature]]
   icon = "galactic-senate"
@@ -35,10 +47,5 @@ also interested in aerial photography and stunt competition.
   also interested in solving polyhedral and irregular cubes.
   """  
   
-[[feature]]
-  icon = "globe"
-  icon_pack = "fas"
-  name = "Lantuage"
-  description = "A native Chinese speaker with very good English skills, also learned a little Italian from operas and Japanese from comics."
 
 +++
