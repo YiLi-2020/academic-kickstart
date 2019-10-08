@@ -60,7 +60,7 @@ subtitle = ""
 [[feature]]
   icon = "galactic-senate"
   icon_pack = "fab"
-  name = "Black Tech"
+  name = "Drone"
   description = """
   
   designed and programmed a drone at 16 
