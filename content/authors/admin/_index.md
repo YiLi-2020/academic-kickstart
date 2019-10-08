@@ -72,4 +72,4 @@ I am a senior student at China Pharmaceutical University(CPU). In my first year,
 
 My research focuses on drug delivery and currently I lead a project on constructing a smart nanoplatform using one drug as the carrier to deliver another drug.
 
-Drug delivery is a highly multidisciplinary area. To me, it is just like playing LEGO-by organizing elements of different shapes and functions, we build brilliant gadgets. I enjoyed the process of implementing my ideas by hand and with nano “LEGO”, there is unlimited space for novel medicine revolutions-that is where the action is.
+Drug delivery is a highly multidisciplinary area. To me, it is just like playing LEGO-by organizing elements of different shapes and functions, we build brilliant gadgets. I enjoy the process of implementing my ideas by hand and with nano “LEGO”, there is unlimited space for novel medicine revolutions-that is where the action is.
