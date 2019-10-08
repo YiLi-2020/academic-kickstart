@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2019-05-31"
   description = """
-  Inspired by a story from the Art of War, which documented that an ancient general blocked his enemies in a city an then defeated them as a whole, we use marimastat‐loaded thermosensitive liposomes to protect the integrity of microenvironment, and then inject PTX Ns to induce apoptosis.
+  Inspired by a story from the Art of War, which documented that an ancient general blocked his enemies in a city an then defeated them as a whole, we used marimastat‐loaded thermosensitive liposomes to protect the integrity of microenvironment, and then injected PTX Ns to induce apoptosis.
   
 ·Participated in literature reviewing and made hypotheses.
 
