@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-I am a senior student at China Pharmaceutical University(CPU). In my first year, I was selected from 3000+ peer students for the Top-Notch Innovative Program, which gave undergraduates the chance to join the best groups of CPU. I worked in the Key Laboratory of Druggability of Biopharmaceuticals since then. 
+I am a senior student at China Pharmaceutical University(CPU). In my first year, I was selected from 3000+ peer students for the Top-Notch Innovative Program, which gave undergraduates the chance to join the best groups of CPU. I have worked in the Key Laboratory of Druggability of Biopharmaceuticals since then. 
 
 My research focuses on drug delivery and currently I lead a project on constructing a smart nanoplatform using one drug as the carrier to deliver another drug.
 
