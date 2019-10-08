@@ -20,10 +20,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
+abstract: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition, also in ceremonies and private parties.
 
 # Summary. An optional shortened abstract.
-summary: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
+summary: I joined the campus orchestra as a pianist. We performed in the National Art Exhibition, also in ceremonies and private parties.
 
 tags:
 - Source Themes
@@ -62,4 +62,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### I joined the campus orchestra as a pianist. We performed in the National Art Exhibition annually, also in ceremonies and private parties.
+### I joined the campus orchestra as a pianist. We performed in the National Art Exhibition, also in ceremonies and private parties.
