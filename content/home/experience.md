@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Constructing a Paclitaxel-Dichloroacetic Acid Nanococrystals for Efficient MDR Reversal and Enhanced Apoptosis"
-  company = "Principle investigator"
+  company = "Project Leader"
   company_url = ""
   location = "China Pharmaceutical University"
   date_start = "2019-09-01"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Using Dual Nanomedicines to Treat Metastatic Cancer"
-  company = "Co-investigator"
+  company = "Research Associate"
   company_url = ""
   location = "China Pharmaceutical University"
   date_start = "2019-01-01"
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Determining a Drug-Delivering-Drug Platform-Mediated Protein Therapeutics via a Non-lysosomal Route"
-  company = "Co-Investigator"
+  company = "Research Associate"
   company_url = ""
   location = "China Pharmaceutical University"
   date_start = "2018-06-01"
@@ -84,7 +84,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Baicalein-mediated delivery of p53 in therapeutics of Pulmonary Hypertension"
-  company = "Team leader"
+  company = "Project leader"
   company_url = ""
   location = "China Pharmaceutical University"
   date_start = "2018-01-01"
