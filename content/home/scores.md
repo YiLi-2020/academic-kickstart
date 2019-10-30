@@ -18,7 +18,7 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "GPA"
-  description = "3.5 of 4.0"
+  description = "3.55 of 4.0"
   
 [[feature]]
   icon = "globe-americas"
@@ -30,6 +30,6 @@ subtitle = ""
   icon = "gofore"
   icon_pack = "fab"
   name = "GRE"
-  description = "V157+Q165+AW3.5"
+  description = "V157+Q165+AW3.0"
 
 +++
