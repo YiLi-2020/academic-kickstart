@@ -14,4 +14,4 @@ mono_font = "Roboto Mono"
 font_size = "20"
 font_size_small = "16"
 # Font size affects #botbar1 placement
-# in Safari
+# in Safar
