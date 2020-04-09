@@ -10,33 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergrduate of Pharmaceutical Science 
+role: A Growing Scientist & LEGO Enthusiast 
 
 # Organizations/Affiliations
 organizations:
-- name: China Pharmaceutical University
-  url: ""
+- name: CPU Pharmacy College
+  url: "http://yxy.cpu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Drug-delivery-drug nanoplatform
+- Theranostic nanoplatform
 - Non-lysosomal pathway
-- Drug resistance
-- Gene delivery
+- Multi-drug resistance
 
 education:
   courses:
-  - course: BS in Pharmaceutical Science
+  - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University
-    year: 2016-2020
-  - course: Summer Research Program
-    institution: Peking University
-    year: 2019
-  - course: Summer Visiting Program
-    institution: University of StrathClyde
-    year: 2018
+    year: 2020
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -59,7 +53,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -68,8 +62,8 @@ user_groups:
 - Visitors
 ---
 
-I am a senior student at China Pharmaceutical University(CPU). In my first year, I was selected from 3000+ peer students for the Top-Notch Innovative Program, which gave undergraduates the chance to join the best groups of CPU. I have worked in the Key Laboratory of Druggability of Biopharmaceuticals since then. 
+I am a senior student at [China Pharmaceutical University] (http://www.cpu.edu.cn), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nano technology to build novel theranostic systems that can improve the therapeutic efficiency and treatment experience.
 
-My research focuses on drug delivery and currently I lead a project on constructing a smart nanoplatform using one drug as the carrier to deliver another drug.
+Previously, my lifelong fascination with LEGO design and chemo-immune therapy led me to become an innovator in research on designing co-delivery platform for MDR reversal and augmented apoptosis.
 
-Drug delivery is a highly multidisciplinary area. To me, it is just like playing LEGO-by organizing elements of different shapes and functions, we build brilliant devices. I enjoy the process of implementing my ideas by hand and with nano “LEGO”, there is unlimited space for novel medicine revolutions-that is where the action is.
+I am actively contributing to carrier optimization, and methods that I implemented are controlling geometric and mechanical properties for better nanoscale precision. In my spare time, I enjoy participat in seminars on the practical applications of LEGO-based engineering and programming.
